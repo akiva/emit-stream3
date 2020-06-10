@@ -1,0 +1,13 @@
+node_modules
+*.log
+.DS_Store
+test
+test.js
+bundle.js
+!.gitignore
+!.npmignore
+LICENSE.md
+LICENSE.markdown
+LICENSE.mkdown
+LICENSE.txt
+LICENSE

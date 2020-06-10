@@ -1,0 +1,35 @@
+{
+  "name": "emit-stream3",
+  "version": "1.0.0",
+  "description": "Turn event emitters into streams and streams into event emitters. Streams3 version of emit-stream.",
+  "main": "index.js",
+  "directories": {
+    "example": "example",
+    "test": "test"
+  },
+  "dependencies": {
+    "through2": "^3.0.1"
+  },
+  "devDependencies": {
+    "tap": "~0.4.2",
+    "JSONStream": "~0.6.4"
+  },
+  "scripts": {
+    "test": "tap test/*.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/akiva/emit-stream3.git"
+  },
+  "homepage": "https://github.com/akiva/emit-stream3",
+  "keywords": [
+    "emit",
+    "event",
+    "emitter",
+    "EventEmitter",
+    "stream",
+    "emit-stream"
+  ],
+  "author": "Akiva Levy <akiva@sixthirteen.co> (http://sixthirteen.co/)",
+  "license": "MIT"
+}
