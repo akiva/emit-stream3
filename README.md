@@ -3,7 +3,7 @@
 Turn event emitters into streams and streams into event emitters. Streams3 
 version of [emit-stream](https://www.npmjs.com/package/emit-stream).
 
-[![build status](https://secure.travis-ci.org/akiva/emit-stream3.png)](http://travis-ci.org/akiva/emit-stream3)
+[![Build Status](https://travis-ci.com/akiva/emit-stream3.svg?branch=master)](https://travis-ci.com/akiva/emit-stream3)
 
 ## Usage
 

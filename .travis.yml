@@ -6,3 +6,9 @@ node_js:
   - "0.13"
   - "0.14"
   - "node"
+sudo: false
+cache:
+  directories:
+    - node_modules
+  script:
+    - npm test
